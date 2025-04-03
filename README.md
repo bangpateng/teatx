@@ -25,6 +25,9 @@ EOF
 
 ```
 screen -S tea
+```
+
+```
 node main.js
 ```
 

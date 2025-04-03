@@ -25,7 +25,7 @@ EOF
 
 ```
 screen -S tea
-main.js
+node main.js
 ```
 
 Save `CTRL A + D Enter`

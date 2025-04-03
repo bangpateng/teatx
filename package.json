@@ -1,0 +1,16 @@
+{
+  "name": "tea",
+  "version": "1.0.0",
+  "description": "Automatically sends TEA tokens at regular intervals",
+  "main": "main.js",
+  "scripts": {
+    "start": "node autoSender.js",
+    "pm2": "pm2 start pm2-config.json"
+  },
+  "author": "Bang Pateng",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2"
+  }
+}
